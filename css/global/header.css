@@ -19,14 +19,11 @@
   display: flex;
   flex-wrap: wrap;
   gap: 40px;
-  font-family: "Poppins";
-  font-weight: 400;
 }
 
 .header-menu a {
   display: inline-block;
   padding: 16px 0px;
-  font-size: 18px;
   position: relative;
 }
 
