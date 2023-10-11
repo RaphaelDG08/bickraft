@@ -20,6 +20,7 @@
 
 /* Bicicleta */
 @import "./bicicleta.css/bicicleta.css";
+@import "./bicicleta.css/seguro.css";
 
 /* Seguros */
 @import "./seguros/seguros.css";
