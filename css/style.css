@@ -16,12 +16,12 @@
 @import "./home/depoimento.css";
 
 /* Bicicletas */
-@import "./bicicletas.css/bicicletas-lista.css";
-@import "./bicicletas.css/bicicletas.css";
+@import "./bicicletas/bicicletas-lista.css";
+@import "./bicicletas/bicicletas.css";
 
 /* Bicicleta */
-@import "./bicicleta.css/bicicleta.css";
-@import "./bicicleta.css/seguro.css";
+@import "./bicicleta/bicicleta.css";
+@import "./bicicleta/bicicleta.css";
 
 /* Seguros */
 @import "./seguros/seguros.css";
