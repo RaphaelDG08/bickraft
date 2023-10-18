@@ -16,7 +16,7 @@ links.forEach(ativarLink);
 
 const parametros = new URLSearchParams(location.search);
 
-function ativarParametro(parametro) {
+function ativarProduto(parametro) {
   const elemento = document.getElementById(parametro);
   if(elemento) {
     elemento.checked = true;
